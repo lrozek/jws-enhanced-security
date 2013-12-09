@@ -15,6 +15,6 @@
         <jar href="logback-classic.jar" version="1.0.13" />
     </resources>
     <application-desc main-class="pl.lrozek.jws.client.main.Bootstrap">
-        <argument>arg</argument>
+        <argument>*</argument>
     </application-desc>
 </jnlp>
