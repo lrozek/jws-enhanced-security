@@ -11,5 +11,7 @@
     <resources>
         $dependencies
     </resources>
-    <application-desc main-class="$mainClass" />
+    <application-desc main-class="$mainClass">
+        <argument>arg</argument>
+    </application-desc>
 </jnlp>
